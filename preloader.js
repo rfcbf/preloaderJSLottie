@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://github.com/rfcbf/preloaderJSLottie/blob/main/Animation%20-%201701460350263.json',
+        path: 'https://rfcbf.github.io/preloaderJSLottie/Animation%20-%201701460350263.json',
     });
 }
 
